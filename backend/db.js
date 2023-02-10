@@ -6,4 +6,3 @@ export const db = mysql.createConnection({
     password:'15042001sd',
     database:'lod'
 })
-.фыфы
